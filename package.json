@@ -1,0 +1,39 @@
+{
+  "_from": "gourl",
+  "_id": "gourl@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-tFi6ZA2AJZgoeWIMLOybC4u1qalZpXZPluJRpfZExEFr+IoJap0O0cn6X0YoiFunjaYeIXDfYfAGpeScZP8cCw==",
+  "_location": "/gourl",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gourl",
+    "name": "gourl",
+    "escapedName": "gourl",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gourl/-/gourl-1.0.5.tgz",
+  "_shasum": "dd3104c680649242c3999db941b09609a1889c05",
+  "_spec": "gourl",
+  "_where": "C:\\Users\\kingr\\Desktop\\go-test",
+  "author": {
+    "name": "kingrayhan"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a simple attribute to go in a specific url",
+  "license": "MIT",
+  "main": "gourl.js",
+  "name": "gourl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}

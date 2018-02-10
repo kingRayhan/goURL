@@ -24,6 +24,8 @@ require('gourl');
 
 Now you can add `data-href` to any element to go a specific url by click.
 
+## [Demo](https://codepen.io/kingRayhan/pen/rJyadw)
+
 ```html
 <button data-href="https://www.google.com/">click</button>
 <button data-href="https://www.google.in/" data-target="_blank">click</button>
@@ -36,8 +38,6 @@ Now you can add `data-href` to any element to go a specific url by click.
 <span data-href="https://www.youtube.com" data-target="_blank">youtube</span>
 
 ```
-
-[Demo](https://codepen.io/kingRayhan/pen/rJyadw)
 
 #### Available attribue
 

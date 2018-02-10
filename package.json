@@ -6,7 +6,7 @@
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "A simple npm packege to go to any specific url by click event. Just add data-href to any element.",
+  "description": "A simple npm packege to go to any specific url by hover event. Just add data-href to any element.",
   "license": "MIT",
   "main": "gourl.js",
   "name": "gourl",
@@ -25,6 +25,6 @@
     "email": "rayhan095@gmail.com"
   },
   "keywords": [
-    "href" , "click-event" , "data-href" , "kingrayhan"
+    "href" , "hover-event" , "data-href" , "kingrayhan"
   ]
 }

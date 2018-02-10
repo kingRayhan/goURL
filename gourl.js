@@ -5,7 +5,7 @@ go = function go($url) {
 };
 dataHref = document.querySelectorAll("[data-href]");
 dataHref.forEach(function (btn) {
-  btn.addEventListener("click", function (e) {
+  btn.addEventListener("mouseover"/* you can add any event you want in element */, function (e) { 
     e.preventDefault();
     go(btn.getAttribute("data-href"), btn.getAttribute('data-target') ? btn.getAttribute('data-target') : '_self');
   });

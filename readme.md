@@ -1,4 +1,6 @@
-![go url](go-url.jpg)
+<div align="center">
+    <img src="go-url.jpg">
+</div>
 
 > A simple npm packege to go to any specific url by click event. Just add data-href to any element.
 

@@ -2,7 +2,7 @@
     <img src="go-url.jpg">
 </div>
 
-> A simple npm packege to go to any specific url by click event. Just add data-href to any element.
+> A simple npm packege to go to any specific url by Hover event. Just add data-href to any element.
 
 ### Install packege
 ```bash
@@ -22,7 +22,7 @@ Include packege to your project
 require('gourl');
 ```
 
-Now you can add `data-href` to any element to go a specific url by click.
+Now you can add `data-href` to any element to go a specific url by hover.
 
 ## [Demo](https://codepen.io/kingRayhan/pen/rJyadw)
 
